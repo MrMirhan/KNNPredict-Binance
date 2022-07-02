@@ -1,0 +1,6 @@
+pandas
+pandas-datareader
+requests
+unicorn-fy
+unicorn-binance-websocket-api
+unicorn-binance-rest_api
